@@ -1,0 +1,23 @@
+.header
+{
+    background-color: rgb(253, 146, 131);
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool
+{
+    font-size: 24px;
+}
+
+#num2
+{
+    color:rgb(94, 94, 253);
+    font-size: 32px;
+}
+
+#num4
+{
+    background-color: rgb(151, 241, 151);
+    font-size: 24px;
+    font-weight: bold;
+}
